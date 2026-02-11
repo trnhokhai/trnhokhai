@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Khai
-🎓 Senior at **Grand Valley State University**  
-🎯 Double major in **Supply Chain Management** & **Management Information Systems**
+🎓 Senior at **Grand Valley State University**, double major in **Supply Chain Management** & **Management Information Systems**
 ### 🔍 What I do
 - Turn supply chain & business data into **clear KPIs and actionable insights**
 - Bridge **data, ERP systems, and operations** to improve performance
