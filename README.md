@@ -10,5 +10,5 @@
 ### 🛠️ Technical Skills
 `Excel` · `SQL` · `Power BI` · `Tableau` · `Python` · `R` · `SAP S/4HANA (ERP)`
 ### 📬 Get in touch
-- LinkedIn: *[(connect](https://www.linkedin.com/in/khai-trangvsu/)*  
+- LinkedIn: *[connect](https://www.linkedin.com/in/khai-trangvsu/)*  
 - Email: **trankhai@mail.gvsu.edu**
